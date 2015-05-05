@@ -59,3 +59,13 @@ _Item
 Aqui está uma ideia: ``por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto **Razoável**`. ``
 
 Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-lo em Projeto **Razoável** .
+
+####Várias linhas
+######Você pode usar acentos triplos (```) para formatar o texto como seu próprio bloco distinta.
+Confira este programa limpo que escrevi:
+
+```
+x = 0
+x = 2 + 2
+o que é x
+```
