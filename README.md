@@ -24,10 +24,8 @@ Nas palavras de Abraham Lincoln:
 Usando: `>Pardom my French`
 ####Estilizando o Texto
 #####Você pode deixar seu texto em Negrito ou Itálico.
-`*Esse texto será em Itálico*`
-
-*Esse texto será em Itálico*
+`*Esse texto será em Itálico*` 
+-*Esse texto será em Itálico*
 
 `**Esse texto será em Negrito**`
-
-**Esse texto será em Negrito**
+-**Esse texto será em Negrito**
