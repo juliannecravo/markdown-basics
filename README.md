@@ -48,8 +48,7 @@ _Item
   1. Um corolário para o item abaixo.
   2. Outro ponto a considerar.
 2. Item 2
-
-*Um corolário que não precisa de ordem.
+  *`*Um corolário que não precisa de ordem.`
 
 
 *Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.
