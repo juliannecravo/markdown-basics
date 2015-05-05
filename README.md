@@ -32,6 +32,7 @@ Nas palavras de Abraham Lincoln:
 `**Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**` 
 
 **Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**
+
 =================
 ### 2.Listas
 ####Lista desordenada
