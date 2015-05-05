@@ -42,6 +42,7 @@ Nas palavras de Abraham Lincoln:
 ### 2.Listas
 ####Lista desordenada
 ######Você pode fazer uma lista desordenada colocando  tanto * quanto _ antes dos Itens.
+```
 *Item
 *Item
 *Item
@@ -49,6 +50,7 @@ Nas palavras de Abraham Lincoln:
 _Item
 _Item
 _Item
+```
 ####Lista ordenada
 ######Você pode fazer uma lista ordenada colocando números antes dos itens.
 ```
