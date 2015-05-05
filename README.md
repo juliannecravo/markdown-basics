@@ -1,7 +1,7 @@
 # markdown-basics
 ####Atividade de IT.
 ##O Básico do Markdown
-####Markdown permite que você escreva usando um formato de texto fácil-de-ler e fácil-de-escrever. Que então converte para HTML para ser visto em GitHub.
+#####Markdown permite que você escreva usando um formato de texto fácil-de-ler e fácil-de-escrever. Que então converte para HTML para ser visto em GitHub.
 ####Escrita Básica
 ####Parágrafo
 #####Parágrafos no Markdown são apenas uma ou mais linhas consecutivas de textos seguidos de um ou mais linhas em branco.
@@ -19,4 +19,4 @@ Em 3 de Julho, o Cavaleiro Negro, um esquadrão do Corpo da Marinha F/A-18 Vespa
 ####Citações
 #####Você pode indicar citações com um >.
 Nas palavras de Abraham Lincoln:
->Pardom my French
+>Pardom my French ->`>Pardom my French`
