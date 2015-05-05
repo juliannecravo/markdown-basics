@@ -19,9 +19,9 @@ Em 3 de Julho, o Cavaleiro Negro, um esquadrão do Corpo da Marinha F/A-18 Vespa
 ####Citações
 #####Você pode indicar citações com um >.
 Nas palavras de Abraham Lincoln:
->Pardom my French 
+`>Pardom my French`
+->Pardom my French 
 
-Usando: `>Pardom my French`
 ####Estilizando o Texto
 #####Você pode deixar seu texto em Negrito ou Itálico.
 `*Esse texto será em Itálico*` 
