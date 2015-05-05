@@ -45,10 +45,15 @@ _Item
 ####Lista ordenada
 ######Você pode fazer uma lista ordenada colocando números antes dos itens.
 1. Item 1
-  1. Um corolário para o item abaixo.(`1. Um corolário para o item abaixo.`)
-  2. Outro ponto a considerar.(`2. Outro ponto a considerar.`)
+  1. Um corolário para o item abaixo.
+  2. Outro ponto a considerar.
 2. Item 2
-  * Um corolário que não precisa de ordem.(`* Um corolário que não precisa de ordem.`)
+  * Um corolário que não precisa de ordem.
     * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.
     * Você pode querer considerar fazer uma nova lista.
 3. O item 3
+`1. Um corolário para o item abaixo.`
+`2. Outro ponto a considerar.`
+`* Um corolário que não precisa de ordem.`
+`   * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.`
+`    * Você pode querer considerar fazer uma nova lista.`
