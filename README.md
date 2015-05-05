@@ -67,9 +67,9 @@ _Item
 ### 3. A formatação do Código
 ####Formatos em linha
 ######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
-Aqui está uma ideia: ``por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto **Razoável**`. ``
-
-Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-lo em Projeto **Razoável** .
+```
+Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto **Razoável**`. 
+```
 
 ####Várias linhas
 ######Você pode usar acentos triplos (```) para formatar o texto como seu próprio bloco distinta.
@@ -88,4 +88,3 @@ Por exemplo, para criar um hiperlink para www.github.com, com um texto de link q
 ```
 [Visite GitHub!] (Www.github.com).
 ```
-[Visite GitHub!] (Www.github.com).
