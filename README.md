@@ -74,3 +74,4 @@ o que é x?
 ####Links
 ######Você pode criar uma ligação em linha envolvendo texto de link entre colchetes ([]), e, em seguida, envolver a ligação entre parênteses (()).
 `Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (Www.github.com).`
+[Visite GitHub!] (Www.github.com).
