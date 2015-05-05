@@ -67,15 +67,12 @@ Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-
 ######Você pode usar acentos triplos (```) para formatar o texto como seu próprio bloco distinta.
 Confira este programa limpo que escrevi:
 
-``` ``` ```
 ```
 x = 0 
 x = 2 + 2 
 o que é x?
 ```
-``` ``` ```
-```
-```
+
 #### 4. Links
 ######Você pode criar uma ligação em linha envolvendo texto de link entre colchetes [ ], e, em seguida, envolver a ligação entre parênteses ( ).
 Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown:
