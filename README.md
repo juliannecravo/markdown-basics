@@ -65,5 +65,8 @@ Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-
 Confira este programa limpo que escrevi:
 
 ``
-``` x = 0 x = 2 + 2 o que é x ```
+``` x = 0 
+x = 2 + 2 
+o que é x?
+```
 ``
