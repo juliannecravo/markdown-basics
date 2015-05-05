@@ -2,8 +2,8 @@
 ####Atividade de IT.
 ##O Básico do Markdown
 ######Markdown permite que você escreva usando um formato de texto fácil-de-ler e fácil-de-escrever. Que então converte para HTML para ser visto em GitHub.
-1. ###Escrita Básica
-  ####Parágrafo
+### 1. Escrita Básica
+####  1.Parágrafo
 ######Parágrafos no Markdown são apenas uma ou mais linhas consecutivas de textos seguidos de um ou mais linhas em branco.
 Em 2 de Julho, uma navemae aliem entrou na orbita da terra e implantou dezenas de varias espaçonaves em forma de pires, "destroyers", cada com 15 milhas(24 km) largura.
 
