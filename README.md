@@ -54,8 +54,7 @@ _Item
     * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.
     * Você pode querer considerar fazer uma nova lista.
 3. O item 3
-```
-```
+
 ### 3. A formatação do Código
 ####Formatos em linha
 ######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
