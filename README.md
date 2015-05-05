@@ -35,14 +35,12 @@ Nas palavras de Abraham Lincoln:
 ###Listas
 ####Lista desordenada
 ######Você pode fazer uma lista desordenada colocando  tanto * quanto _ antes dos Itens.
-`*Item`
+`*Item`,`*Item`,`*Item`,`_Item`,`_Item`,`_Item`.
 
-`*Item`
-
-`*Item`
-
-`_Item`
-
-`_Item`
-
-`_Item`
+*Item
+*Item
+*Item
+ 
+_Item
+_Item
+_Item
