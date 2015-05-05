@@ -3,8 +3,7 @@
 ##O Básico do Markdown
 ######Markdown permite que você escreva usando um formato de texto fácil-de-ler e fácil-de-escrever. Que então converte para HTML para ser visto em GitHub.
 ### 1. Escrita Básica
-####
-  1.Parágrafo
+####Parágrafo
 ######Parágrafos no Markdown são apenas uma ou mais linhas consecutivas de textos seguidos de um ou mais linhas em branco.
 Em 2 de Julho, uma navemae aliem entrou na orbita da terra e implantou dezenas de varias espaçonaves em forma de pires, "destroyers", cada com 15 milhas(24 km) largura.
 
@@ -33,7 +32,7 @@ Nas palavras de Abraham Lincoln:
 `**Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**` 
 
 **Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**
-###Listas
+### 2.Listas
 ####Lista desordenada
 ######Você pode fazer uma lista desordenada colocando  tanto * quanto _ antes dos Itens.
 *Item
@@ -54,7 +53,7 @@ _Item
     * Você pode querer considerar fazer uma nova lista.
 3. O item 3
 
-###A formatação do Código
+### 3. A formatação do Código
 ####Formatos em linha
 ######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 Aqui está uma ideia: ``por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto **Razoável**`. ``
@@ -72,7 +71,7 @@ x = 2 + 2
 o que é x?
 ```
 ``` ``` ```
-####Links
+#### 4. Links
 ######Você pode criar uma ligação em linha envolvendo texto de link entre colchetes [ ], e, em seguida, envolver a ligação entre parênteses ( ).
 Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown:
 `[Visite GitHub!] (Www.github.com).`
