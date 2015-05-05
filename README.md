@@ -28,7 +28,7 @@ Nas palavras de Abraham Lincoln:
 `*Esse texto será em Itálico*` -*Esse texto será em Itálico*
 
 `**Esse texto será em Negrito**` -**Esse texto será em Negrito**
-#####Os dois Negrito e Itálico pode ser usado com um * ou um _ em volta do texto para estilo. Isso permite você combinar os dois negrito e itálico se preciso.
+######Os dois Negrito e Itálico pode ser usado com um * ou um _ em volta do texto para estilo. Isso permite você combinar os dois negrito e itálico se preciso.
 `**Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**` 
 
 **Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**
