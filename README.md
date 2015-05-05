@@ -32,8 +32,8 @@ Nas palavras de Abraham Lincoln:
 `**Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**` 
 
 **Todos _precisam_ assistir à reunião às 5 horas em ponto hoje.**
-
-
+```
+```
 ### 2.Listas
 ####Lista desordenada
 ######Você pode fazer uma lista desordenada colocando  tanto * quanto _ antes dos Itens.
@@ -54,8 +54,8 @@ _Item
     * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.
     * Você pode querer considerar fazer uma nova lista.
 3. O item 3
-
-
+```
+```
 ### 3. A formatação do Código
 ####Formatos em linha
 ######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
@@ -74,8 +74,8 @@ x = 2 + 2
 o que é x?
 ```
 ``` ``` ```
-
-
+```
+```
 #### 4. Links
 ######Você pode criar uma ligação em linha envolvendo texto de link entre colchetes [ ], e, em seguida, envolver a ligação entre parênteses ( ).
 Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown:
