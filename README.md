@@ -45,7 +45,7 @@ _Item
 ####Lista ordenada
 ######Você pode fazer uma lista ordenada colocando números antes dos itens.
 1. Item 1
-  1. Um corolário para o item abaixo.
+  1. Um corolário para o item abaixo.      `1. Um corolário para o item abaixo.`
   2. Outro ponto a considerar.
 2. Item 2
   * Um corolário que não precisa de ordem.
