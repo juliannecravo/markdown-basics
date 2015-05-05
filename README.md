@@ -58,4 +58,4 @@ _Item
 ######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 Aqui está uma ideia: ``por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto**Razoável **`. ``
 
-Projeto Superior -> Projeto **Razoável. **
+Projeto Superior -> Projeto **Razoável**.
