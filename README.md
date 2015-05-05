@@ -52,13 +52,7 @@ _Item
     * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.
     * Você pode querer considerar fazer uma nova lista.
 3. O item 3
-
-`1. Um corolário para o item abaixo.`
-
-`2. Outro ponto a considerar.`
-
-`* Um corolário que não precisa de ordem.`
-
-`   * Esse é recuado 4 espaços, porque é 2 espaços afastado do que o item de cima.`
-
-`    * Você pode querer considerar fazer uma nova lista.`
+###A formatação do Código
+####Formatos em linha
+######Use acentos individuais (`) para formatar o texto em um formato especial de um espaço. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
+Aqui está uma ideia: por que não vamos tomar `Projeto Superior` e transformá-lo em `Projeto**Razoável ** `.
