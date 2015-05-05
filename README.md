@@ -5,6 +5,7 @@ Atividade de IT.
 ###Escrita Básica
 **Parágrafo**
 #####Parágrafos no Markdown são apenas uma ou mais linhas consecutivas de textos seguidos de um ou mais linhas em branco.
-######Em 2 de Julho, uma navemae aliem entrou na orbita da terra e implantou dezenas de varias espaçonaves em forma de pires, "destroyers", cada com 15 milhas(24 km) largura.
-Em 3 de Julho, o Cavaleiro Negro, um esquadrão do Corpo da Marinha F/A-18 Vespa, participaram em um assalto no destroyer perto da cidade de Los Angeles. 
+######  Em 2 de Julho, uma navemae aliem entrou na orbita da terra e implantou dezenas de varias espaçonaves em forma de pires, "destroyers", cada com 15 milhas(24 km) largura.
+Em 3 de Julho, o Cavaleiro Negro, um esquadrão do Corpo da Marinha F/A-18 Vespa, participaram em um assalto no destroyer perto da cidade de Los Angeles.
+ 
 
